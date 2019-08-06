@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "hoge";
+    src: url("http://localhost:3000//001Shirokuma-Regular.otf") format("opentype");
+}
+
+body {
+    font-family: "hoge";
+}
